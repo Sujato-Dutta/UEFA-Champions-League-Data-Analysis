@@ -35,5 +35,5 @@ To conduct a comprehensive analysis of UEFA Champions League dataset to answer v
 6.	Real Madrid CF tops the list of the clubs with the most number of games played followed by FC Bayern Munich and FC Barcelona. 
 7.	Spain tops the list for the countries with the most number of titles.
 
- ![Image Alt](image_url)
+ ![Image Alt](https://github.com/Sujato-Dutta/UEFA-Champions-League-Data-Analysis/blob/2d56a57ab989b3126f4647a78540670bb535a608/UEFA%20Dashboard.jpg)
  
